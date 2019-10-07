@@ -1,0 +1,10 @@
+name: PatchEnd
+version: 3.0
+author: Lerwox
+main: fr.lerwox.patchend.Main
+commands:
+  endercrystal:
+    description: kill endercrystal if it's in The_End and close to 2 block from the player
+    permission: elyria.modo
+    permission-message: §8[§e!§8] §cTu n'as pas la permission de faire cela
+    aliases: [endcrystal, ender_crystal]
